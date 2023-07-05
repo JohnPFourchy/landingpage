@@ -117,3 +117,24 @@ p {
     padding: 18px;
     font-size: 18px;
 }
+
+.section-three {
+    background-color: #E5E7EB;
+    padding: 110px 300px;
+}
+
+.quote {
+    font-family: "light italic", sans-serif;
+    font-size: 36px;
+    color: #1F2937;
+    padding: 24px;
+}
+
+.author {
+    font-family: "light italic", sans-serif;
+    font-size: 22px;
+    color: #1F2937;
+    font-weight: bold;
+    text-align: end;
+    padding: 10px;
+}
