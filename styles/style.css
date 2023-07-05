@@ -83,3 +83,37 @@ p {
     font-weight: 700;
     margin-right: auto;
 }
+
+.section-two {
+    font-family: "extra-bold", sans-serif;
+    background-color: white;
+    padding: 48px 300px;
+}
+
+.section-two p {
+    margin: 0;
+    text-align: center;
+    color: #1F2937;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.square-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    padding: 48px;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    border: solid 2px #3882F6;
+    border-radius: 10px;
+}
+
+.placeholder {
+    text-align: center;
+    padding: 18px;
+    font-size: 18px;
+}
