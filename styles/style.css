@@ -138,3 +138,41 @@ p {
     text-align: end;
     padding: 10px;
 }
+
+.section-four {
+    padding: 145px 300px;
+    font-family: "extra bold", sans-serif;
+}
+
+.call-to-action {
+    display: flex;
+    height: 150px;
+    background-color: #3882F6;
+    border-radius: 15px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-text, .sub-text {
+    color: #F9FAF8;
+}
+
+.main-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sign-up {
+    color: white;
+    border: 2px solid white;
+    background-color: #3882F6;
+    border-radius: 13px;
+    height: 35px;
+    width: 90px;
+}
