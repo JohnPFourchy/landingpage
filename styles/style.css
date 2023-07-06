@@ -176,3 +176,17 @@ p {
     height: 35px;
     width: 90px;
 }
+
+.footer {
+    display: flex;
+    height: 100px;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p {
+    font-family: "extra bold", sans-serif;
+    font-size: 18px;
+    color: white;
+}
